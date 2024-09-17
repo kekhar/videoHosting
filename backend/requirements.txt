@@ -1,0 +1,8 @@
+Pillow
+Sanic
+sanic-session
+Levenshtein
+opencv-python
+asyncio
+setuptools
+sanic_cors
